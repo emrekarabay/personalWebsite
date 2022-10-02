@@ -1,0 +1,48 @@
+body{
+     margin: 0;
+     padding: 0;
+     background: white;
+     
+     
+}
+.cvBox {
+     border: 2px solid #00FFD1;
+     border-radius: 8px;
+
+}
+::selection {
+     background: #14bbba;
+     color: #fff;
+}
+.imageEmre {
+     border-radius: 8px;
+     width: 100px;
+     height: 100px;
+}
+.header40 {
+     line-height: 40px;
+     font-weight: 600;
+     font-size: 28px;
+     display: inline-block;
+}
+.header24 {
+     line-height: 24px;
+}
+.mainbox {
+     padding: 24px;
+}
+
+.social-media-icon svg {
+     fill: #222;
+     width: auto!important;
+    height: 30px!important;
+}
+.cvYazi {
+     margin: 24px;
+}
+a{
+     text-decoration: none;
+}
+.container{
+     margin-top: 10%;
+}
